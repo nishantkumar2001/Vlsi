@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/nisha/Downloads/M312/M312/Dec_2to4_En.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Dec_2to4_En
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/nisha/Downloads/M312/M312/Dec3to8.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Dec3to8

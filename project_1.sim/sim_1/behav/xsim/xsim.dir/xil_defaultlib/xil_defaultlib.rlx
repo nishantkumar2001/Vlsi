@@ -1,0 +1,17 @@
+0.6
+2018.2
+Jun 14 2018
+20:41:02
+C:/Users/nisha/Downloads/M312/M312/Dec3to8.v,1658988540,verilog,,,,Dec3to8,,,,,,,,
+C:/Users/nisha/Downloads/M312/M312/Dec_2to4_En.v,1658988540,verilog,,C:/Users/nisha/Downloads/M312/M312/Dec3to8.v,,Dec_2to4_En,,,,,,,,
+D:/xilin/project_1/project_1.sim/sim_1/behav/xsim/glbl.v,1529022455,verilog,,,,glbl,,,,,,,,
+D:/xilin/project_1/project_1.srcs/sim_1/new/testbench_ha.v,1658320799,verilog,,,,testbench_ha,,,,,,,,
+D:/xilin/project_1/project_1.srcs/sources_1/new/HD_gate.v,1658317060,verilog,,D:/xilin/project_1/project_1.srcs/sources_1/new/fausing_ha.v,,HD_gate,,,,,,,,
+D:/xilin/project_1/project_1.srcs/sources_1/new/RPA.v,1658659537,verilog,,,,RPA,,,,,,,,
+D:/xilin/project_1/project_1.srcs/sources_1/new/decoder.v,1658920872,verilog,,D:/xilin/project_1/project_1.srcs/sources_1/new/dem.v,,decoder,,,,,,,,
+D:/xilin/project_1/project_1.srcs/sources_1/new/dem.v,1658920954,verilog,,,,dem,,,,,,,,
+D:/xilin/project_1/project_1.srcs/sources_1/new/fausing_ha.v,1658342031,verilog,,D:/xilin/project_1/project_1.srcs/sources_1/new/RPA.v,,fausing_ha,,,,,,,,
+D:/xilin/project_1/project_1.srcs/sources_1/new/half_adder_data.v,1658315672,verilog,,,,half_adder_data,,,,,,,,
+D:/xilin/project_1/project_1.srcs/sources_1/new/module_assingment.v,1658570314,verilog,,,,module_assingment,,,,,,,,
+D:/xilin/project_1/project_1.srcs/sources_1/new/mux.v,1658830990,verilog,,,,mux,,,,,,,,
+D:/xilin/project_1/project_1.srcs/sources_1/new/test1.v,1657736475,verilog,,,,test1,,,,,,,,

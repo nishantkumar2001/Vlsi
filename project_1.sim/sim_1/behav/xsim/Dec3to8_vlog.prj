@@ -1,0 +1,10 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"C:/Users/nisha/Downloads/M312/M312/Dec_2to4_En.v" \
+"C:/Users/nisha/Downloads/M312/M312/Dec3to8.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
